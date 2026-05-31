@@ -5,3 +5,4 @@ node_modules/
 backend/repos/
 backend/temp/
 chroma_store/
+venv/
