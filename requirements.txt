@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+openai
+langchain
+langchain-openai
+langchain-community
+python-dotenv
+pylint
+bandit
+streamlit
+requests
+tiktoken
